@@ -14,7 +14,6 @@ Getting Started
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/FinancialSentimentForecast.git
 Set up a virtual environment:
 bash
 Copy code
