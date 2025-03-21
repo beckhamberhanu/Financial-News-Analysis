@@ -1,7 +1,67 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
-collection: portfolio
+layout: archive
+title: "Portfolio"
+permalink: /portfolio/
+author_profile: true
 ---
+Alew is a selection of my projects, categorized by type. Click on each for more details.
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<div class="portfolio-container flex flex-col md:flex-row gap-8">
+    <!-- Left Panel - Categories -->
+    <div class="category-sidebar md:w-1/4">
+      <h3 class="text-xl font-bold mb-4">Project Categories</h3>
+      <ul class="space-y-2">
+          {% for category in site.portfolio_category %}
+          <li>
+              <a href="#{{ category[0] }}" 
+                 class="category-link block p-3 rounded hover:bg-gray-100">
+                  {{ category[1].title }}
+              </a>
+          </li>
+          {% endfor %}
+      </ul>
+  </div>
+
+  <!-- Right Panel - Projects -->
+  <div class="project-list md:w-3/4">
+      {% for category in site.portfolio_category %}
+      <section id="{{ category[0] }}" class="category-section mb-12">
+          <h2 class="text-2xl font-bold mb-6">{{ category[1].title }}</h2>
+          <div class="space-y-6">
+              {% for post in site.portfolio %}
+              {% if post.category == category[0] %}
+              <article class="project-item bg-white p-6 rounded-lg shadow">
+                  <header>
+                      <h3 class="text-xl font-bold mb-2">{{ post.title }}</h3>
+                      <div class="post-meta text-sm text-gray-600 mb-4">
+                          {% if post.date %}
+                          <time datetime="{{ post.date | date_to_xmlschema }}">
+                              {{ post.date | date: "%B %Y" }}
+                          </time>
+                          {% endif %}
+                      </div>
+                  </header>
+                  
+                  <div class="post-content">
+                      {{ post.content }}
+                  </div>
+              </article>
+              {% endif %}
+              {% endfor %}
+          </div>
+      </section>
+      {% endfor %}
+  </div>
+</div>
+
+<style>
+.category-sidebar {
+  position: sticky;
+  top: 1rem;
+  align-self: start;
+}
+
+.category-section {
+  scroll-margin-top: 2rem;
+}
+</style>

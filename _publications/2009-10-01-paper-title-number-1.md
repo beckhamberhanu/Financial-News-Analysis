@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Optimizing Neural Networks for Real-Time Applications"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2023-01-01-optimizing-neural-networks
+excerpt: "Improved model accuracy by 15% using Python and TensorFlow."
+date: 2023-01-01
+venue: "Journal of Machine Learning"
+paperurl: "/files/research-paper.pdf"
+citation: "Berhanu, Beckham. (2023). \"Optimizing Neural Networks for Real-Time Applications.\" <i>Journal of Machine Learning</i>. 10(2)."
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This study explores the optimization of neural networks for real-time applications. We used TensorFlow and Python to improve accuracy by 15%.
