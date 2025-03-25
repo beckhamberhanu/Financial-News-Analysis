@@ -17,9 +17,9 @@ redirect_from:
 
 A technology enthusiast and results-oriented professional with a passion for leveraging the power of technology to solve complex challenges and make a tangible difference in people's lives. My career journey has taken me from the intricacies of system engineering to the dynamic world of project management, where I now lead impactful initiatives focused on modernizing systems and embracing emerging technologies.
 
-## My Professional Journey ➡️
+<!-- ## My Professional Journey ➡️
 
-My evolution from a System Engineer has provided me with a strong technical foundation, which I now effectively apply in my role as a Project Manager. I thrive on leading high-impact projects that not only drive technological advancement but also contribute to tangible improvements for organizations and communities.
+My evolution from a System Engineer has provided me with a strong technical foundation, which I now effectively apply in my role as a Project Manager. I thrive on leading high-impact projects that not only drive technological advancement but also contribute to tangible improvements for organizations and communities. -->
 
 ## Passion and Aspirations ✨
 
@@ -28,7 +28,7 @@ My career aspirations are deeply rooted in two key areas:
 * **Contributing to the Scholarly Community:** I am keen on making meaningful research contributions 📖 that advance knowledge and innovation within my field.
 * **Impacting Vulnerable Populations:** A cause that resonates deeply with me is leveraging technology-driven business projects to serve vulnerable populations, improving their access to essential services and opportunities. ❤️
 
-## Skills and Expertise 💪
+<!-- ## Skills and Expertise 💪
 
 Project management is where my technical acumen and leadership capabilities converge. I am passionate about driving change and delivering solutions that benefit diverse communities. My core skills include:
 
@@ -36,7 +36,7 @@ Project management is where my technical acumen and leadership capabilities conv
 * **Stakeholder Management:** Experienced in building strong relationships and effectively communicating with diverse stakeholders.
 * **Strategic Alignment:** Adept at ensuring projects align with overarching organizational goals and strategies.
 * **Technical Proficiency:** Strong understanding of various technologies gained from my background in system engineering.
-* **Continuous Learning:** Committed to staying updated with the latest technologies and project management approaches.
+* **Continuous Learning:** Committed to staying updated with the latest technologies and project management approaches. -->
 
 ## What Drives Me 🚀
 

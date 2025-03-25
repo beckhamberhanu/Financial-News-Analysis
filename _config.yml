@@ -351,3 +351,17 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+# portfolo categories
+portfolio_categories:
+  high_impact:
+    title: "High-impact Projects"
+  ai_data_science:
+    title: "AI and Data Science"
+  research:
+    title: "Research Projects"
+  community:
+    title: "Community Service"
+  software:
+    title: "Software Projects"

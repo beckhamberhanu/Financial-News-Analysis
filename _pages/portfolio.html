@@ -1,0 +1,174 @@
+---
+layout: single
+title: "Portfolio Projects"
+permalink: /portfolio/
+author_profile: true
+---
+
+<div class="portfolio-container">
+    <!-- <h3>Portfolio Projects</h3> -->
+    <p class="portfolio-subtitle">Selected works across multiple domains</p>
+
+    {% for category in site.portfolio_categories %}
+    <div class="portfolio-category">
+        <details class="category-details">
+            <summary class="cert-summary">{{ category[1].title }}</summary>
+            <div class="category-content">
+                {% assign projects = site.portfolio | where: "category", category[0] %}
+                {% if projects.size > 0 %}
+                    {% for project in projects %}
+                    <div class="project-item">
+                        <details class="project-details">
+                            <summary class="project-summary">{{ project.title }}</summary>
+                            <div class="project-content">
+                                {{ project.content | markdownify }}
+                            </div>
+                        </details>
+                    </div>
+                    {% endfor %}
+                {% else %}
+                    <p class="no-projects">No projects available in this category yet.</p>
+                {% endif %}
+            </div>
+        </details>
+    </div>
+    {% endfor %}
+</div>
+
+<style>
+/* Base styles matching certifications page */
+.portfolio-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.portfolio-subtitle {
+    color: #666;
+    margin-bottom: 30px;
+    font-size: 1em;
+}
+
+.portfolio-category {
+    margin-bottom: 20px;
+    background-color: #f8f9fa;
+}
+
+/* Category styling */
+.cert-summary {
+    padding: 15px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #2980b9;
+    border-left: 3px solid #2980b9;
+    background-color: #f8f9fa;
+    transition: all 0.3s ease;
+    font-size: 1em;
+}
+
+.category-content {
+    padding: 15px;
+    border-left: 3px solid #2980b9;
+    margin-top: 2px;
+}
+
+/* Project styling */
+.project-item {
+    margin-bottom: 15px;
+}
+
+.project-summary {
+    padding: 10px 15px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #333;
+    background-color: #fff;
+    border-left: 2px solid #2980b9;
+    transition: all 0.3s ease;
+    font-size: 0.95em;
+}
+
+.project-content {
+    padding: 15px;
+    background-color: #fff;
+    border-left: 2px solid #2980b9;
+    margin-top: 2px;
+    font-size: 0.9em;
+}
+
+/* Remove default details marker */
+details > summary {
+    list-style: none;
+}
+
+details > summary::-webkit-details-marker {
+    display: none;
+}
+
+/* Custom expand/collapse indicators */
+.cert-summary::after {
+    content: '+';
+    float: right;
+    font-size: 1.5em;
+    line-height: 1;
+    color: #2980b9;
+}
+
+details[open] > summary.cert-summary::after {
+    content: '−';
+}
+
+.project-summary::after {
+    content: '+';
+    float: right;
+    font-size: 1.2em;
+    line-height: 1;
+    color: #2980b9;
+}
+
+details[open] > summary.project-summary::after {
+    content: '−';
+}
+
+/* Hover effects */
+.cert-summary:hover,
+.project-summary:hover {
+    background-color: #eef2f5;
+}
+
+.no-projects {
+    color: #666;
+    font-style: italic;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .portfolio-container {
+        padding: 20px;
+    }
+
+    h3 {
+        font-size: 1.3em;
+    }
+
+    .cert-summary,
+    .project-summary {
+        font-size: 0.9em;
+    }
+
+    .project-content {
+        font-size: 0.85em;
+    }
+}
+</style>
