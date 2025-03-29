@@ -14,7 +14,7 @@ author_profile: true
         <details class="category-details">
             <summary class="cert-summary">{{ category[1].title }}</summary>
             <div class="category-content">
-                {% assign projects = site.portfolio | where: "category", category[0] %}
+                {% assign projects = site.portfolio | where: "category", category[0] | sort: "date" | reverse %}
                 {% if projects.size > 0 %}
                     {% for project in projects %}
                     <div class="project-item">
@@ -35,8 +35,21 @@ author_profile: true
     {% endfor %}
 </div>
 
+<!-- Testimonials Button Section - Outside portfolio container -->
+<div class="testimonials-outer-container">
+    <div class="testimonials-button-container">
+        <a href="/assets/files/testimonials.pdf" class="testimonials-button" target="_blank" aria-label="Client Testimonials">
+            <div class="testimonials-icon">
+                <i class="fas fa-quote-right"></i>
+            </div>
+            <div class="testimonials-text">
+                <h3>Testimonials</h3>
+            </div>
+        </a>
+    </div>
+</div>
 <style>
-/* Base styles matching certifications page */
+/* Original Portfolio Styles (unchanged) */
 .portfolio-container {
     max-width: 900px;
     margin: 0 auto;
@@ -63,7 +76,6 @@ h3 {
     background-color: #f8f9fa;
 }
 
-/* Category styling */
 .cert-summary {
     padding: 15px;
     cursor: pointer;
@@ -81,7 +93,6 @@ h3 {
     margin-top: 2px;
 }
 
-/* Project styling */
 .project-item {
     margin-bottom: 15px;
 }
@@ -105,7 +116,6 @@ h3 {
     font-size: 0.9em;
 }
 
-/* Remove default details marker */
 details > summary {
     list-style: none;
 }
@@ -114,7 +124,6 @@ details > summary::-webkit-details-marker {
     display: none;
 }
 
-/* Custom expand/collapse indicators */
 .cert-summary::after {
     content: '+';
     float: right;
@@ -139,7 +148,6 @@ details[open] > summary.project-summary::after {
     content: '−';
 }
 
-/* Hover effects */
 .cert-summary:hover,
 .project-summary:hover {
     background-color: #eef2f5;
@@ -152,7 +160,6 @@ details[open] > summary.project-summary::after {
     text-align: center;
 }
 
-/* Responsive adjustments */
 @media (max-width: 768px) {
     .portfolio-container {
         padding: 20px;
@@ -169,6 +176,62 @@ details[open] > summary.project-summary::after {
 
     .project-content {
         font-size: 0.85em;
+    }
+}
+
+/* Updated Testimonial Button Only */
+.testimonials-outer-container {
+    max-width: 900px;
+    margin: 30px auto 0;
+    text-align: center;
+    padding-top: 20px;
+    border-top: 1px solid #eaeaea;
+}
+
+.testimonials-button-container {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.testimonials-button {
+    display: inline-flex;
+    align-items: center;
+    background: white;
+    padding: 8px 16px;
+    border-radius: 6px;
+    border: 1px solid #2980b9;
+    transition: all 0.2s ease;
+    text-decoration: none;
+    color: #2980b9;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    font-size: 0.9em;
+}
+
+.testimonials-button:hover {
+    background: #f8fafc;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(41, 128, 185, 0.1);
+}
+
+.testimonials-icon {
+    color: #2980b9;
+    margin-right: 8px;
+    font-size: 1em;
+}
+
+.testimonials-text h3 {
+    margin: 0;
+    font-size: 0.95em;
+    font-weight: 600;
+    color: #2c3e50;
+}
+
+@media (max-width: 480px) {
+    .testimonials-button {
+        padding: 8px 12px;
+    }
+    .testimonials-text h3 {
+        font-size: 0.9em;
     }
 }
 </style>

@@ -97,7 +97,7 @@ author_profile: true
 .certification-details summary {
   padding: 1em;
   cursor: pointer;
-  font-size: 1em;
+  font-size: 1.2em;
   font-weight: bold;
   color: #2980b9;
   border-left: 3px solid #2980b9;

@@ -5,32 +5,157 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+{% if site.author.googlescholar %}
+<div class="scholar-note">
+  <p>You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</p>
+</div>
 {% endif %}
+
+<div class="grid__wrapper">
+  {% if site.publication_category %}
+    {% for category in site.publication_category %}
+      {% assign filtered_posts = site.publications | where: "category", category[0] | reverse %}
+      {% if filtered_posts.size > 0 %}
+        <div class="archive__item">
+          <h2 class="archive__item-title">{{ category[1].title }}</h2>
+          <div class="archive__item-excerpt">
+            {% for post in filtered_posts %}
+              <div class="publication">
+                <details class="publication-details">
+                  <summary>{{ post.title }}</summary>
+                  <div class="publication-content">
+                    {% if post.authors %}
+                      <p><strong>Authors:</strong> {{ post.authors }}</p>
+                    {% endif %}
+                    {% if post.venue %}
+                      <p><strong>Venue:</strong> {{ post.venue }}</p>
+                    {% endif %}
+                    {% if post.date %}
+                      <p><strong>Date:</strong> {{ post.date | date: "%B %Y" }}</p>
+                    {% endif %}
+                    {% if post.paperurl %}
+                      <p><strong>Paper:</strong> <a href="{{ post.paperurl }}">Download PDF</a></p>
+                    {% endif %}
+                    {% if post.citation %}
+                      <p><strong>Citation:</strong> {{ post.citation }}</p>
+                    {% endif %}
+                    {% if post.abstract %}
+                      <p><strong>Abstract:</strong> {{ post.abstract }}</p>
+                    {% endif %}
+                  </div>
+                </details>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+  {% else %}
+    <div class="archive__item">
+      <h2 class="archive__item-title">Publications</h2>
+      <div class="archive__item-excerpt">
+        {% for post in site.publications reversed %}
+          <div class="publication">
+            <details class="publication-details">
+              <summary>{{ post.title }}</summary>
+              <div class="publication-content">
+                <!-- Same content structure as above -->
+              </div>
+            </details>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  {% endif %}
+</div>
+
+<style>
+.scholar-note {
+  margin-bottom: 2em;
+  padding: 1em;
+  background-color: #f8f9fa;
+  border-left: 3px solid #2980b9;
+}
+
+.scholar-note p {
+  margin: 0;
+  color: #333;
+}
+
+.publication {
+  margin-bottom: 1em;
+  background-color: #f8f9fa;
+}
+
+.publication-details {
+  width: 100%;
+}
+
+.publication-details summary {
+  padding: 1em;
+  cursor: pointer;
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #2980b9;
+  border-left: 3px solid #2980b9;
+  background-color: #f8f9fa;
+  transition: all 0.3s ease;
+}
+
+.publication-details summary:hover {
+  background-color: #eef2f5;
+}
+
+.publication-content {
+  padding: 1em;
+  border-left: 3px solid #2980b9;
+  margin-top: 2px;
+}
+
+.publication-content p {
+  margin: 0.5em 0;
+}
+
+.archive__item-title {
+  margin-top: 1.5em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #f2f3f3;
+}
+
+/* Remove default details marker */
+.publication-details > summary {
+  list-style: none;
+}
+
+.publication-details > summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Add custom expand/collapse indicator */
+.publication-details > summary::after {
+  content: '+';
+  float: right;
+  font-size: 1.5em;
+  line-height: 0.8;
+  color: #2980b9;
+}
+
+.publication-details[open] > summary::after {
+  content: '−';
+}
+
+/* Link styling */
+a {
+  color: #2980b9;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+</style>
 
 
 

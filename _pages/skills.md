@@ -123,7 +123,7 @@ author_profile: true
     <h3>Languages</h3>
     <div class="archive__item-excerpt">
       <div class="skills-section">
-        <details class="skill-details" open>
+        <details class="skill-details">
           <summary class="skill-summary">Language Proficiency</summary>
           <div class="skill-content">
             <div class="skill-item">

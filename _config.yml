@@ -77,8 +77,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  # books:
+    # title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
@@ -118,7 +118,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -302,7 +302,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+ # - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
@@ -311,7 +311,7 @@ whitelist:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
@@ -357,11 +357,19 @@ compress_html:
 portfolio_categories:
   high_impact:
     title: "High-impact Projects"
-  ai_data_science:
-    title: "AI and Data Science"
-  research:
-    title: "Research Projects"
-  community:
-    title: "Community Service"
   software:
     title: "Software Projects"
+  research:
+    title: "Research Projects"
+  ai_data_science:
+    title: "AI and Data Science"
+  community:
+    title: "Community Service"
+
+# Site Footer
+footer:
+  links: []  # This removes the follow links
+  
+# Remove or set to false
+atom_feed:
+  hide: true  # This hides the Feed link
