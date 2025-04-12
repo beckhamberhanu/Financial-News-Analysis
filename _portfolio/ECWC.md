@@ -1,28 +1,20 @@
 ---
-title: "Active Device Network Infrastructure for Educational Assessment"
+title: "Network Deployment for Educational Assessments"
 excerpt: "Supply, installation and configuration of network infrastructure for educational assessments."
 collection: portfolio
 category: high_impact
-date: 2024-12-07 
+permalink: /portfolio/smart-edunet/
+date: 2025-02-02
 ---
 
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 10px;">
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 3px;">
     <div style="color:#2980b9; font-weight: bold;">Client:</div> 
     Ethiopian Construction Works Corporation
     <img src="/images/logos/ecwc.png" alt="ECWC Logo" style="width: 30px; height: 30px; border-radius: 50%; object-fit: cover;">
 </div>
 
-<div style="margin-bottom: 5px;">
-    <span style="color:#2980b9; font-weight: bold;">Project Title:</span> Active Device Network Infrastructure for Educational Assessment and Examination Services
-</div>
+<span style="color:#2980b9;"><strong>Project Title:</strong></span> Supply, Installation, and Configuration of Active Device Network Infrastructure for the Educational Assessment and Examination Services  
+<span style="color:#2980b9;"><strong>Duration:</strong></span> December 2024 - February 2025  
+<span style="color:#2980b9;"><strong>Role:</strong></span> Project Manager
 
-<div style="margin-bottom: 5px;">
-    <span style="color:#2980b9; font-weight: bold;">Duration:</span> Decemeber 2024 - Febrauary 2025
-</div>
-
-<div style="margin-bottom: 15px;">
-    <span style="color:#2980b9; font-weight: bold;">Role:</span> IT Project Manager
-</div>
-
-<div style="color:#2980b9; font-weight: bold; margin-bottom: 5px;">Key Achievements:</div>
-- []
+<span style="color:#2980b9;"><strong>Key Achievement:</strong></span> Spearheaded the end-to-end deployment of a secure network infrastructure for Education Assessment and Examinations Service, optimizing performance by 30% and reducing vulnerabilities by 25% through strategic configuration and stakeholder collaboration.

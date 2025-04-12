@@ -24,7 +24,4 @@ date: 2023-02-05
     <span style="color:#2980b9; font-weight: bold;">Role:</span> Project Manager
 </div>
 
-<div style="color:#2980b9; font-weight: bold; margin-bottom: 5px;">Key Achievements:</div>
-- Led a cross-functional team to ensure successful project execution
-- Collaborated with stakeholders to refine project requirements
-- Implemented quality assurance processes for seamless integration
+<span style="color:#2980b9;"><strong>Key Achievement:</strong></span> Initiated and led a cross-functional team to launch and execute a healthcare network project, including coordinating international training, ensuring smooth implementation and operational readiness.

@@ -1,5 +1,5 @@
 ---
-title: "IT Infrastructure Modernization"
+title: "IT Infrastructure Modernization funded by The World Bank"
 excerpt: "Supply, installation and commissioning of Router, Distribution/ core /Aggregate switches, Blade Servers, Ms SQL Server 2019 Standard, Wireless Access Points for data center of EMI, ECAE and IES"
 collection: portfolio
 category: high_impact
@@ -13,19 +13,9 @@ date: 2023-02-02
     <img src="/images/logos/worldbank.jpeg" alt="World Bank Logo" style="width: 30px; height: 30px; border-radius: 50%; object-fit: cover;">
 </div>
 
-<div style="margin-bottom: 5px;">
-    <span style="color:#2980b9; font-weight: bold;">Project Title:</span> Supply, Installation and commissioning of Data Center Solution (turnkey) for Three Ethiopian Government Agencies (EMI, ECAE and IES)
-</div>
+<span style="color:#2980b9;"><strong>Project Title:</strong></span> Supply, Installation and commissioning of Data Center Solution (turnkey) for Three Ethiopian Government Agencies (EMI, ECAE and IES).  
+<span style="color:#2980b9;"><strong>Duration:</strong></span> Feb 2023 - May 2023
+<br>
+<span style="color:#2980b9;"><strong>Role:</strong></span> Project Manager
 
-<div style="margin-bottom: 5px;">
-    <span style="color:#2980b9; font-weight: bold;">Duration:</span> Feb 2023 - May 2023
-</div>
-
-<div style="margin-bottom: 15px;">
-    <span style="color:#2980b9; font-weight: bold;">Role:</span> Project Manager
-</div>
-
-<div style="color:#2980b9; font-weight: bold; margin-bottom: 5px;">Key Achievements:</div>
-- Initiated $2.5M infrastructure upgrade
-- Coordinated 3 government agencies
-- Reduced system downtime by 40%
+<span style="color:#2980b9;"><strong>Key Achievement:</strong></span> Orchestrated a $2.5M infrastructure modernization for three government agencies, deploying 150+ network devices and Microsoft SQL servers while coordinating cross-agency teams to achieve 40% reduced downtime within 3 months.
