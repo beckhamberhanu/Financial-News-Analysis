@@ -18,8 +18,8 @@ author_profile: true
           <summary>Project Management Professional (PMP®)</summary>
           <div class="certification-content">
             <p><strong>Issuing Organization:</strong> Project Management Institute (PMI)</p>
-            <p><strong>Credential ID:</strong> [Your PMP Number]</p>
-            <p><strong>Date Earned:</strong> [Month Year]</p>
+            <p><strong>Credential ID:</strong> 3959657</p>
+            <p><strong>Date Earned:</strong> Oct 2024</p>
             <p><strong>Status:</strong> Active</p>
             <p><a href="https://www.pmi.org/certifications/certification-resources/registry" target="_blank" rel="noopener noreferrer">Verify Credential</a></p>
           </div>

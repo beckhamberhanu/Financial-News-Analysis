@@ -19,4 +19,3 @@ date: 2024-01-01
 
 <div style="margin-top: 1px;">
 <span style="color:#2980b9;"><strong>Key Achievement:</strong></span> Generated a novel breast cancer histopathological dataset, validated by medical experts, leading to a 76.06% classification accuracy for DCIS, IDC, LCIS, and ILC.
-</div>

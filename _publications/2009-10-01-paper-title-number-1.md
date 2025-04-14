@@ -1,13 +1,11 @@
 ---
-title: "Optimizing Neural Networks for Real-Time Applications"
+title: "Effects of Corporate Social Responsibility on Project Performance of Cooperative Bank of Oromia"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-01-01-optimizing-neural-networks
 excerpt: "Improved model accuracy by 15% using Python and TensorFlow."
-date: 2023-01-01
-venue: "Journal of Machine Learning"
-paperurl: "/files/research-paper.pdf"
-citation: "Berhanu, Beckham. (2023). \"Optimizing Neural Networks for Real-Time Applications.\" <i>Journal of Machine Learning</i>. 10(2)."
+date: 2022-01-01
+venue: "Innovations"
+paperurl: "https://journal-innovations.com/assets/uploads/doc/660ed-1465-1482.23654.pdf"
+citation: "Mulgeta, Berhanu, Beckham, and Wakene, Dinkisa Keno. (2023). \"Effects of Corporate Social Responsibility on Project Performance of Cooperative Bank of Oromia.\" <i>Journal of Business and Project Management</i>. 7(1)."
 ---
-
-This study explores the optimization of neural networks for real-time applications. We used TensorFlow and Python to improve accuracy by 15%.
