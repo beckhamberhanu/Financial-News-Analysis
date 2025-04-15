@@ -9,6 +9,7 @@ date: 2023-11-01
 
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 3px;">
   <span style="color:#2980b9;"><strong>Client:</strong></span> FDRE Ministry of Justice
+  <img src="/images/logos/moj.png" alt="MoJ Logo" style="width: 30px; height: 30px; border-radius: 50%; object-fit: cover;">
 </div>
 
 <span style="color:#2980b9;"><strong>Project Title:</strong></span> FDRE Ministry of Justice Crime Registration and Management System  

@@ -18,5 +18,5 @@ date: 2025-03-01
 <span style="color:#2980b9;"><strong>Environment:</strong></span> HTML, CSS, JavaScript, Jekyll, GitHub Pages  
 
 <div style="margin-top: 3px;">
-<span style="color:#2980b9;"><strong>Key Achievement:</strong></span> Designed, customized, and deployed a responsive personal portfolio website using Jekyll and GitHub Pages to showcase my professional journey and projects with dynamic, interactive features.
+<span style="color:#2980b9;"><strong>Key Achievement:</strong></span> Transformed a static academic template into a responsive personal portfolio website using Jekyll and GitHub Pages to showcase my professional journey and projects with dynamic, interactive features.
 </div>

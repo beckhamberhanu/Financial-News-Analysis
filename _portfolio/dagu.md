@@ -15,6 +15,7 @@ date: 2024-09-01
 <span style="color:#2980b9;"><strong>Project Title:</strong></span> DaguSMS Web Application Development  
 <span style="color:#2980b9;"><strong>Duration:</strong></span> Jul 2023 - Sep 2024  
 <span style="color:#2980b9;"><strong>Role:</strong></span> Scrum Master / Project Manager
+<br>
 <span style="color:#2980b9;"><strong>Software Link:</strong></span> <a href="https://dagusms.com/" target="_blank" rel="noopener noreferrer">Visit Application</a>
 
 <div style="margin-top: 3px;">
