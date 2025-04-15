@@ -13,37 +13,24 @@ redirect_from:
   </p>
 {% endif %}
 
-## Hi 👋, I'm Beckham Berhanu! 
+## Hello 👋, I’m Beckham Berhanu
 
-A technology enthusiast and results-oriented professional with a passion for leveraging the power of technology to solve complex challenges and make a tangible difference in people's lives. My career journey has taken me from the intricacies of system engineering to the dynamic world of project management, where I now lead impactful initiatives focused on modernizing systems and embracing emerging technologies.
+A dedicated professional passionate about leveraging technology and business to create meaningful impact. Driven by service, impact, and a commitment to excellence, I’ve navigated roles from system engineering to project management—leading technology initiatives and research‑driven, service‑oriented projects. Explore my journey and accomplishments in my [**Portfolio**](/portfolio/).
 
-<!-- ## My Professional Journey ➡️
+### My Expertise & Passions
 
-My evolution from a System Engineer has provided me with a strong technical foundation, which I now effectively apply in my role as a Project Manager. I thrive on leading high-impact projects that not only drive technological advancement but also contribute to tangible improvements for organizations and communities. -->
+- **Technology & Innovation:** AI & Data Science, infrastructure upgrades, emerging technologies  
+- **Business Leadership:** Systems thinking, strategic project management, organizational excellence  
+- **Service & Impact:** Community empowerment, support for vulnerable populations, service‑driven solutions  
 
-## Passion and Aspirations ✨
+### What I’m Doing Now
 
-My career aspirations are deeply rooted in two key areas:
+I currently spearhead end‑to‑end technology projects—from data center modernizations to full‑stack software builds—while continually upskilling through advanced courses and collaborations with industry leaders.
 
-* **Contributing to the Scholarly Community:** I am keen on making meaningful research contributions 📖 that advance knowledge and innovation within my field.
-* **Impacting Vulnerable Populations:** A cause that resonates deeply with me is leveraging technology-driven business projects to serve vulnerable populations, improving their access to essential services and opportunities. ❤️
+### Research & Future Vision
 
-<!-- ## Skills and Expertise 💪
-
-Project management is where my technical acumen and leadership capabilities converge. I am passionate about driving change and delivering solutions that benefit diverse communities. My core skills include:
-
-* **Agile Methodologies:** Proficient in implementing and leading projects using Agile frameworks.
-* **Stakeholder Management:** Experienced in building strong relationships and effectively communicating with diverse stakeholders.
-* **Strategic Alignment:** Adept at ensuring projects align with overarching organizational goals and strategies.
-* **Technical Proficiency:** Strong understanding of various technologies gained from my background in system engineering.
-* **Continuous Learning:** Committed to staying updated with the latest technologies and project management approaches. -->
-
-## What Drives Me 🚀
-
-I am particularly excited by the opportunity to combine my technical skills with my passion for leadership to drive positive change. The ability to see a project through from conception to completion and witness its impact on users and communities is incredibly rewarding.
-
-<!-- ## Let's Connect! 🤝
-
-I am always eager to connect with fellow professionals, researchers, and anyone passionate about technology for good. Feel free to explore my [**Portfolio**](/portfolio/) to see some of my completed projects. -->
+I’m passionate about bridging research and practice: I aim to conduct pioneering research on emerging technologies, systems, organizations, and their interplay within society, preferabelly in the business sector. Then translate those insights into real‑world solutions through expert project management. Seeing an idea evolve from concept to completion and positively impact people’s lives is incredibly rewarding.
 
 ---
+
+Feel free to connect or dive into my work—let’s collaborate to create meaningful impact!
