@@ -13,24 +13,26 @@ redirect_from:
   </p>
 {% endif %}
 
-## Hello 👋, I’m Beckham Berhanu
+## Hi  👋, I’m Beckham Berhanu
 
-A dedicated professional passionate about leveraging technology and business to create meaningful impact. Driven by service, impact, and a commitment to excellence, I’ve navigated roles from system engineering to project management, leading technology initiatives and research‑driven, service‑oriented projects. Explore my journey and accomplishments in my [**Portfolio**](/portfolio/).
+A dedicated professional driven by service and impact, I leverage technology and business to deliver meaningful change. From system engineering to leading high-stakes projects, I thrive on modernizing systems, embracing AI & data science, and powering research-driven, service-oriented initiatives.
 
-### My Expertise & Passions
+<!-- Explore my journey and accomplishments in my [**Portfolio**](/portfolio/). -->
+
+<!-- ### My Expertise & Passions
 
 - **Technology & Innovation:** AI & Data Science, emerging technologies  
 - **Business Leadership:** Systems thinking, project management, organizational excellence  
-- **Service & Impact:** Community empowerment, support for vulnerable populations, service‑driven solutions 
+- **Service & Impact:** Community empowerment, support for vulnerable populations, service‑driven solutions  -->
 
 ### What I’m Doing Now
 
-I currently lead end-to-end technology projects, ranging from infrastructure modernization to building services with emerging technologies, while continuously upskilling through advanced courses and collaborations with industry leaders.
+I spearhead large-scale tech transformations, from infrastructure upgrades to full-stack software builds, while upskilling through advanced courses and collaborating with industry leaders.
 
 ### Research & Future Vision
 
-I’m passionate about bridging research and practice: I aim to conduct pioneering research on emerging technologies, systems, organizations, and their interplay within society, preferabelly in the business sector. Then translate those insights into real‑world solutions through expert project management. Seeing an idea evolve from concept to completion and positively impact people’s lives is incredibly rewarding.
+I’m passionate about bridging research and practice: I aim to conduct pioneering research on emerging technologies, systems, organizations, and their interplay within society, preferably in the business sector. Then, translate those insights into real‑world solutions through expert project management. Seeing an idea evolve from concept to completion and positively impact people’s lives is incredibly rewarding.
 
 ---
 
-Feel free to connect, always open to meaningful conversations and collaborations!
+Feel free to connect, I'm open to collaborations revolving around my mentioned domains. Explore my [*Portfolio*](/portfolio/) to see some of my completed projects.
