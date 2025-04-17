@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Beckham Berhanu"
+# title: "About Beckham Berhanu"
 author_profile: true
 redirect_from:
   - /about/
@@ -15,17 +15,17 @@ redirect_from:
 
 ## Hello 👋, I’m Beckham Berhanu
 
-A dedicated professional passionate about leveraging technology and business to create meaningful impact. Driven by service, impact, and a commitment to excellence, I’ve navigated roles from system engineering to project management—leading technology initiatives and research‑driven, service‑oriented projects. Explore my journey and accomplishments in my [**Portfolio**](/portfolio/).
+A dedicated professional passionate about leveraging technology and business to create meaningful impact. Driven by service, impact, and a commitment to excellence, I’ve navigated roles from system engineering to project management, leading technology initiatives and research‑driven, service‑oriented projects. Explore my journey and accomplishments in my [**Portfolio**](/portfolio/).
 
 ### My Expertise & Passions
 
-- **Technology & Innovation:** AI & Data Science, infrastructure upgrades, emerging technologies  
-- **Business Leadership:** Systems thinking, strategic project management, organizational excellence  
-- **Service & Impact:** Community empowerment, support for vulnerable populations, service‑driven solutions  
+- **Technology & Innovation:** AI & Data Science, emerging technologies  
+- **Business Leadership:** Systems thinking, project management, organizational excellence  
+- **Service & Impact:** Community empowerment, support for vulnerable populations, service‑driven solutions 
 
 ### What I’m Doing Now
 
-I currently spearhead end‑to‑end technology projects—from data center modernizations to full‑stack software builds—while continually upskilling through advanced courses and collaborations with industry leaders.
+I currently lead end-to-end technology projects, ranging from infrastructure modernization to building services with emerging technologies, while continuously upskilling through advanced courses and collaborations with industry leaders.
 
 ### Research & Future Vision
 
@@ -33,4 +33,4 @@ I’m passionate about bridging research and practice: I aim to conduct pioneeri
 
 ---
 
-Feel free to connect or dive into my work—let’s collaborate to create meaningful impact!
+Feel free to connect, always open to meaningful conversations and collaborations!
