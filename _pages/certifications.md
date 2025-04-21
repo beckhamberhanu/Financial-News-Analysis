@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Certifications"
+# title: "Certifications"
 permalink: /certifications/
 author_profile: true
 ---
@@ -31,9 +31,19 @@ author_profile: true
           <summary>Google Project Management Professional Certificate</summary>
           <div class="certification-content">
             <p><strong>Issuing Organization:</strong> Google via Coursera</p>
-            <p><strong>Date Earned:</strong> [Month Year]</p>
-            <p><strong>Credential ID:</strong> [Your Credential ID]</p>
-            <p><a href="https://www.coursera.org/account/accomplishments" target="_blank" rel="noopener noreferrer">Verify Credential</a></p>
+            <p><strong>Date Earned:</strong> Feb 2024</p>
+            <p><a href="https://coursera.org/verify/professional-cert/XA8GFJ2ZZZD9" target="_blank" rel="noopener noreferrer">Verify Credential</a></p>
+          </div>
+        </details>
+      </div>
+
+      <div class="certification">
+        <details class="certification-details">
+          <summary>Google IT Support Professional Certificate</summary>
+          <div class="certification-content">
+            <p><strong>Issuing Organization:</strong> Google via Coursera</p>
+            <p><strong>Date Earned:</strong> Feb 2024</p>
+            <p><a href="https://coursera.org/verify/professional-cert/XBUVR26YZZFH" target="_blank" rel="noopener noreferrer">Verify Credential</a></p>
           </div>
         </details>
       </div>
@@ -47,11 +57,22 @@ author_profile: true
     <div class="archive__item-excerpt">
       <div class="certification">
         <details class="certification-details">
-          <summary>Linux Administration Bootcamp</summary>
+          <summary>Kiﬁya AI Mastery Training Program</summary>
           <div class="certification-content">
-            <p><strong>Issuing Organization:</strong> [Platform Name]</p>
-            <p><strong>Date Completed:</strong> [Month Year]</p>
-            <p><strong>Certificate ID:</strong> [Your Certificate ID]</p>
+            <p><strong>Issuing Organization:</strong> 10 Academy</p>
+            <p><strong>Date Completed:</strong> March 2025</p>
+            <p><a href="team@10academy.org" target="_blank" rel="noopener noreferrer">Verify Credential</a></p>            
+          </div>
+        </details>
+      </div>
+
+      <div class="certification">
+        <details class="certification-details">
+          <summary>Linux Administration: The complete Linux Bootcamp for 2025</summary>
+          <div class="certification-content">
+            <p><strong>Issuing Organization:</strong> Udemy</p>         
+            <p><strong>Date Completed:</strong> Apr 2024</p>
+            <p><a href="https://www.udemy.com/certificate/UC-ab461c65-656f-40d4-bec6-e90atf90d2a7" target="_blank" rel="noopener noreferrer">Verify Credential</a></p>
           </div>
         </details>
       </div>
@@ -60,23 +81,41 @@ author_profile: true
         <details class="certification-details">
           <summary>Cisco Certified Network Associate (CCNAv7)</summary>
           <div class="certification-content">
-            <p><strong>Issuing Organization:</strong> Cisco</p>
-            <p><strong>Credential ID:</strong> [Your CCNA Number]</p>
-            <p><strong>Date Earned:</strong> [Month Year]</p>
-            <p><strong>Status:</strong> Active</p>
-            <p><a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html" target="_blank" rel="noopener noreferrer">Verify Credential</a></p>
+            <p><strong>Issuing Organization:</strong> Cisco: Addis Ababa institute of Technology</p>
+            <p><strong>Date Earned:</strong> Jun 2022</p>
           </div>
         </details>
       </div>
 
       <div class="certification">
         <details class="certification-details">
-          <summary>Google IT Support Professional Certificate</summary>
+          <summary>Neural Networks and Deep learning</summary>
           <div class="certification-content">
-            <p><strong>Issuing Organization:</strong> Google via Coursera</p>
-            <p><strong>Date Earned:</strong> [Month Year]</p>
-            <p><strong>Credential ID:</strong> [Your Credential ID]</p>
-            <p><a href="https://www.coursera.org/account/accomplishments" target="_blank" rel="noopener noreferrer">Verify Credential</a></p>
+            <p><strong>Issuing Organization:</strong> DeepLearning.Ai via Coursera</p>
+            <p><strong>Date Completed:</strong> Apr 2021</p>
+            <p><a href="https://coursera.org/verify/ARZW8TYZWLB7" target="_blank" rel="noopener noreferrer">Verify Credential</a></p>
+          </div>
+        </details>
+      </div>
+
+      <div class="certification">
+        <details class="certification-details">
+          <summary>Be a white Hacker and Pen Tester</summary>
+          <div class="certification-content">
+            <p><strong>Issuing Organization:</strong> Eduonix Learning Solutions</p>
+            <p><strong>Date Completed:</strong> Nov 2020</p>
+            <p><a href="www.eduonix.com/certificate/4e4b2897d5" target="_blank" rel="noopener noreferrer">Verify Credential</a></p>
+          </div>
+        </details>
+      </div>
+
+      <div class="certification">
+        <details class="certification-details">
+          <summary>Linux Server Management and Security</summary>
+          <div class="certification-content">
+            <p><strong>Issuing Organization:</strong> University of Colorado via Coursera</p>
+            <p><strong>Date Completed:</strong> Apr 2020</p>
+            <p><a href="https://coursera.org/verify/56KQAHA2RL3V" target="_blank" rel="noopener noreferrer">Verify Credential</a></p>
           </div>
         </details>
       </div>

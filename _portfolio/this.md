@@ -15,7 +15,7 @@ date: 2025-03-01
 <span style="color:#2980b9;"><strong>Project Title:</strong></span> This Personal Website  
 <span style="color:#2980b9;"><strong>Duration:</strong></span> Mar 2025 - Apr 2025  
 <span style="color:#2980b9;"><strong>Role:</strong></span> Web Developer  
-<span style="color:#2980b9;"><strong>Environment:</strong></span> HTML, CSS, JavaScript, Jekyll, GitHub Pages  
+<span style="color:#2980b9;"><strong>Environment:</strong></span> HTML, CSS, JavaScript, Jekyll, GitHub Pages
 
 <div style="margin-top: 3px;">
 <span style="color:#2980b9;"><strong>Key Achievement:</strong></span> Transformed a static academic template into a responsive personal portfolio website using Jekyll and GitHub Pages to showcase my professional journey and projects with dynamic, interactive features.

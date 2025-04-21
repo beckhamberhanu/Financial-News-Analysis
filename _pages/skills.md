@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Skills"
+# title: "Skills"
 permalink: /skills/
 author_profile: true
 ---
@@ -10,7 +10,7 @@ author_profile: true
 <div class="grid__wrapper">
   <!-- Technical Skills -->
   <div class="archive__item">
-    <h3>Technical Skills</h3>
+    <h2 class="archive__item-title">Technical Skills</h2>
     <div class="archive__item-excerpt">
       <div class="skills-section">
         <details class="skill-details">
@@ -30,13 +30,6 @@ author_profile: true
               </div>
               <span class="skill-level">Advanced</span>
             </div>
-            <div class="skill-item">
-              <span class="skill-name">Jira</span>
-              <div class="skill-bar-container">
-                <div class="skill-bar" style="width: 70%;"></div>
-              </div>
-              <span class="skill-level">Intermediate</span>
-            </div>
           </div>
         </details>
 
@@ -46,23 +39,23 @@ author_profile: true
             <div class="skill-item">
               <span class="skill-name">Python</span>
               <div class="skill-bar-container">
-                <div class="skill-bar" style="width: 70%;"></div>
+                <div class="skill-bar" style="width: 90%;"></div>
               </div>
-              <span class="skill-level">Intermediate</span>
+              <span class="skill-level">Advanced</span>
             </div>
             <div class="skill-item">
               <span class="skill-name">SQL</span>
               <div class="skill-bar-container">
-                <div class="skill-bar" style="width: 70%;"></div>
+                <div class="skill-bar" style="width: 90%;"></div>
               </div>
-              <span class="skill-level">Intermediate</span>
+              <span class="skill-level">Advanced</span>
             </div>
             <div class="skill-item">
               <span class="skill-name">PHP</span>
               <div class="skill-bar-container">
-                <div class="skill-bar" style="width: 30%;"></div>
+                <div class="skill-bar" style="width: 70%;"></div>
               </div>
-              <span class="skill-level">Beginner</span>
+              <span class="skill-level">Intermediate</span>
             </div>
           </div>
         </details>
@@ -92,21 +85,14 @@ author_profile: true
 
   <!-- Project Management Skills -->
   <div class="archive__item">
-    <h3>Project Management Skills</h3>
+    <h2 class="archive__item-title">Project Management Skills</h2>
     <div class="archive__item-excerpt">
       <div class="skills-section">
         <details class="skill-details">
           <summary class="skill-summary">Management & Leadership</summary>
           <div class="skill-content">
             <div class="skill-item">
-              <span class="skill-name">Agile Methodologies</span>
-              <div class="skill-bar-container">
-                <div class="skill-bar" style="width: 90%;"></div>
-              </div>
-              <span class="skill-level">Advanced</span>
-            </div>
-            <div class="skill-item">
-              <span class="skill-name">Stakeholder Management</span>
+              <span class="skill-name">TEN Knowledge areas of PMBOK guide</span>
               <div class="skill-bar-container">
                 <div class="skill-bar" style="width: 90%;"></div>
               </div>
@@ -118,9 +104,84 @@ author_profile: true
     </div>
   </div>
 
+  <!-- Research Skills -->
+  <div class="archive__item">
+    <h2 class="archive__item-title">Research Skills</h2>
+    <div class="archive__item-excerpt">
+      <div class="skills-section">
+        <details class="skill-details">
+          <summary class="skill-summary">Data Science & Machine Learning</summary>
+          <div class="skill-content">
+            <div class="skill-item">
+              <span class="skill-name">Python</span>
+              <div class="skill-bar-container">
+                <div class="skill-bar" style="width: 90%;"></div>
+              </div>
+              <span class="skill-level">Advanced</span>
+            </div>
+            <div class="skill-item">
+              <span class="skill-name">Pandas</span>
+              <div class="skill-bar-container">
+                <div class="skill-bar" style="width: 90%;"></div>
+              </div>
+              <span class="skill-level">Advanced</span>
+            </div>
+            <div class="skill-item">
+              <span class="skill-name">Numpy</span>
+              <div class="skill-bar-container">
+                <div class="skill-bar" style="width: 90%;"></div>
+              </div>
+              <span class="skill-level">Advanced</span>
+            </div>
+            <div class="skill-item">
+              <span class="skill-name">Scikit-learn</span>
+              <div class="skill-bar-container">
+                <div class="skill-bar" style="width: 90%;"></div>
+              </div>
+              <span class="skill-level">Advanced</span>
+            </div>
+            <div class="skill-item">
+              <span class="skill-name">Deep learning models</span>
+              <div class="skill-bar-container">
+                <div class="skill-bar" style="width: 90%;"></div>
+              </div>
+              <span class="skill-level">Advanced</span>
+            </div>
+            <div class="skill-item">
+              <span class="skill-name">Google Colab</span>
+              <div class="skill-bar-container">
+                <div class="skill-bar" style="width: 90%;"></div>
+              </div>
+              <span class="skill-level">Advanced</span>
+            </div>
+          </div>
+        </details>
+        <details class="skill-details">
+          <summary class="skill-summary">Statistical Software</summary>
+          <div class="skill-content">
+            <div class="skill-item">
+              <span class="skill-name">STATA</span>
+              <div class="skill-bar-container">
+                <div class="skill-bar" style="width: 50%;"></div>
+              </div>
+              <span class="skill-level">Intermediate</span>
+            </div>
+            <div class="skill-item">
+              <span class="skill-name">SPSS</span>
+              <div class="skill-bar-container">
+                <div class="skill-bar" style="width: 50%;"></div>
+              </div>
+              <span class="skill-level">Intermediate</span>
+            </div>
+          </div>
+        </details>
+      </div>
+    </div>
+  </div>
+
   <!-- Languages -->
   <div class="archive__item">
-    <h3>Languages</h3>
+    <h2 class="archive__item-title">Languages</h2>
     <div class="archive__item-excerpt">
       <div class="skills-section">
         <details class="skill-details">
@@ -129,23 +190,23 @@ author_profile: true
             <div class="skill-item">
               <span class="skill-name">English</span>
               <div class="skill-bar-container">
-                <div class="skill-bar" style="width: 100%;"></div>
-              </div>
-              <span class="skill-level">Native</span>
-            </div>
-            <div class="skill-item">
-              <span class="skill-name">Amharic</span>
-              <div class="skill-bar-container">
                 <div class="skill-bar" style="width: 95%;"></div>
               </div>
               <span class="skill-level">Fluent</span>
             </div>
             <div class="skill-item">
+              <span class="skill-name">Amharic</span>
+              <div class="skill-bar-container">
+                <div class="skill-bar" style="width: 100%;"></div>
+              </div>
+              <span class="skill-level">Native</span>
+            </div>
+            <div class="skill-item">
               <span class="skill-name">Afaan Oromo</span>
               <div class="skill-bar-container">
-                <div class="skill-bar" style="width: 60%;"></div>
+                <div class="skill-bar" style="width: 100%;"></div>
               </div>
-              <span class="skill-level">Conversational</span>
+              <span class="skill-level">Native</span>
             </div>
           </div>
         </details>
@@ -173,6 +234,7 @@ author_profile: true
   border-left: 3px solid #2980b9;
   background-color: #f8f9fa;
   transition: all 0.3s ease;
+  font-size: 1.2em;
 }
 
 .skill-summary:hover {
@@ -194,6 +256,7 @@ author_profile: true
 .skill-name {
   flex-basis: 200px;
   margin-right: 15px;
+  font-size: 1em;
 }
 
 .skill-bar-container {
@@ -214,6 +277,7 @@ author_profile: true
   margin-left: 15px;
   min-width: 100px;
   color: #666;
+  font-size: 1em;
 }
 
 /* Remove default details marker */
@@ -238,9 +302,19 @@ author_profile: true
   content: '−';
 }
 
-h3 {
-  font-size: 1.5em;
-  margin-bottom: 20px;
-  color: #333;
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .skill-summary {
+    font-size: 1.1em;
+  }
+
+  .skill-name,
+  .skill-level {
+    font-size: 0.95em;
+  }
+
+  .skill-name {
+     flex-basis: 150px;
+  }
 }
 </style>
