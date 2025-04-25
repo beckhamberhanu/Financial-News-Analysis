@@ -66,14 +66,14 @@ bundle exec jekyll serve -l -H localhost
 Visit http://localhost:4000 in your browser. Changes to markdown, layouts, or styles will auto-reload.
 
 ```
-📦 Deployment
+## 📦 Deployment
 This site is hosted for free on GitHub Pages. Push to main (or gh-pages) branch and GitHub will automatically rebuild and publish the site at:
 
 ```bash
 https://beckhamberhanu.github.io/
 
 ```
-🤝 Contributing
+## 🤝 Contributing
 All feedback, bug reports, and pull requests are welcome. To contribute:
 1. Fork this repository.
 2. Create a feature branch (git checkout -b feature/my-change).
@@ -81,7 +81,7 @@ All feedback, bug reports, and pull requests are welcome. To contribute:
 4. Push to the branch (git push origin feature/my-change).
 5. Open a Pull Request describing your change.
 
-📄 License
+##📄 License
 This project is licensed under the MIT License. Feel free to use and adapt the code for your own portfolio site.
 
 Crafted with ❤️ by Beckham Berhanu
