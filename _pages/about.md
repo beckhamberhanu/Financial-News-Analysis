@@ -31,7 +31,7 @@ I spearhead large-scale tech transformations, from infrastructure upgrades to fu
 
 ### Research & Future Vision
 
-I’m passionate about bridging research and practice: I aim to conduct pioneering research on emerging technologies, systems, organizations, and their interplay within society, preferably in the business sector. Then, translate those insights into real‑world solutions through expert project management. Seeing an idea evolve from concept to completion and positively impact people’s lives is incredibly rewarding.
+I’m passionate about bridging research and practice: I aim to conduct pioneering research on emerging technologies, systems, organizations, and their interplay within society, preferably in the business sector. Then, translate those insights into real‑world solutions through expert project management. Seeing an idea evolve from concept to completion and positively impact people’s lives is incredibly rewarding!
 
 ---
 
