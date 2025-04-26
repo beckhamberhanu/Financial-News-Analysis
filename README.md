@@ -81,7 +81,7 @@ All feedback, bug reports, and pull requests are welcome. To contribute:
 4. Push to the branch (git push origin feature/my-change).
 5. Open a Pull Request describing your change.
 
-##📄 License
+## 📄 License
 This project is licensed under the MIT License. Feel free to use and adapt the code for your own portfolio site.
 
 Crafted with ❤️ by Beckham Berhanu
