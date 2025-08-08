@@ -35,4 +35,4 @@ I’m passionate about bridging research and practice: I aim to conduct pioneeri
 
 ---
 
-Feel free to connect, I'm open to collaborations revolving around my mentioned domains. Explore my [*Portfolio*](/portfolio/) to see some of my completed projects.
+Feel free to connect, I'm open to collaborations revolving around my mentioned domains, and I'm open to other areas as well. Explore my [*Portfolio*](/portfolio/) to see some of my completed projects.
