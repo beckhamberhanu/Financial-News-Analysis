@@ -14,8 +14,8 @@ date: 2025-03-14
 </div>
 
 <span style="color:#2980b9;"><strong>Project Title:</strong></span> Network Infrastructure for Chifra Primary Hospital and Harbu Health Center.  
-<span style="color:#2980b9;"><strong>Duration:</strong></span> Feb 2025 - Present
+<span style="color:#2980b9;"><strong>Duration:</strong></span> Feb 2025 - June 2025
 <br>
 <span style="color:#2980b9;"><strong>Role:</strong></span> Project Manager
 
-<span style="color:#2980b9;"><strong>Key Achievement:</strong></span> I initiated and executed civil and SCS works, coordinated pending supplies, and streamlined the network installation process, resulting in improved connectivity, efficient deployment, and enhanced patient care.
+<span style="color:#2980b9;"><strong>Key Achievement:</strong></span> I initiated and executed civil and SCS works, coordinated item supplies, and streamlined the network installation process paving the way for Ministry of Health projects, resulting in improved connectivity, efficient deployment, and enhanced patient care.
