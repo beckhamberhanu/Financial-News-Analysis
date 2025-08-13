@@ -57,7 +57,7 @@ author_profile: true
     <div class="archive__item-excerpt">
       <div class="certification">
         <details class="certification-details">
-          <summary>Kiﬁya AI Mastery Training Program</summary>
+          <summary>AI Mastery Training Program</summary>
           <div class="certification-content">
             <p><strong>Issuing Organization:</strong> 10 Academy</p>
             <p><strong>Date Completed:</strong> March 2025</p>
