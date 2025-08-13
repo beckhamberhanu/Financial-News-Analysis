@@ -15,6 +15,7 @@ date: 2019-12-11
 <span style="color:#2980b9;"><strong>Project Title:</strong></span> Balderasu Last Mile Delivery Management and Tracking System  
 <span style="color:#2980b9;"><strong>Duration:</strong></span> Dec 2019 - Jun 2021  
 <span style="color:#2980b9;"><strong>Role:</strong></span> System Engineer
+<br>
 <span style="color:#2980b9;"><strong>Environment:</strong></span> PHP, CodeIgniter framework, Apache, Ubuntu, PostgreSQL, Kannel SMS, Bash  
 <span style="color:#2980b9;"><strong>Software Link:</strong></span> <a href="https://balderasu.adc.com.et/balderasu" target="_blank" rel="noopener noreferrer">Visit Application</a>
 

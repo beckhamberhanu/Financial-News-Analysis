@@ -17,4 +17,4 @@ date: 2025-02-02
 <span style="color:#2980b9;"><strong>Duration:</strong></span> December 2024 - February 2025  
 <span style="color:#2980b9;"><strong>Role:</strong></span> Project Manager
 
-<span style="color:#2980b9;"><strong>Key Achievement:</strong></span> Spearheaded the end-to-end deployment of a secure network infrastructure for Education Assessment and Examinations Service, optimizing performance by 30% and reducing vulnerabilities by 25% through strategic configuration and stakeholder collaboration.
+<span style="color:#2980b9;"><strong>Key Achievement:</strong></span> Spearheaded the end-to-end deployment of a secure network infrastructure for Education Assessment and Examinations Service, optimizing performance by 30% and reducing vulnerabilities by 25%.

@@ -13,6 +13,6 @@ date: 2024-04-01
 
 <span style="color:#2980b9;"><strong>Project Title:</strong></span> Bread of Hope: Sustainable Bakery Initiative for Zewditu Meshasha Children and Family Welfare Development Association  
 <span style="color:#2980b9;"><strong>Duration:</strong></span> Jan 2024 – Present  
-<span style="color:#2980b9;"><strong>Role:</strong></span> Project Coordinator
+<span style="color:#2980b9;"><strong>Role:</strong></span> Project Member
 
-<span style="color:#2980b9;"><strong>Key Achievement:</strong></span> Contributing to the establishment of a sustainable bakery initiative aimed at providing nutritious food and generating long-term income for over 100 beneficiaries, throuth my rotary club; currently in the fundraising phase.
+<span style="color:#2980b9;"><strong>Key Achievement:</strong></span> Contributing to the establishment of a sustainable bakery initiative aimed at providing nutritious food and generating long-term income for over 100 beneficiaries, throuth Rotary club of Addis Ababa Enderasse.

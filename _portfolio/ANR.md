@@ -19,5 +19,5 @@ date: 2025-01-10
 <span style="color:#2980b9;"><strong>Code:</strong></span> [View Repository](https://github.com/beckhamberhanu/Amharic-NER-Telegram){:target="_blank"}  
 
 <div style="margin-top: 0.5px;">
-<span style="color:#2980b9;"><strong>Key Achievement:</strong></span> Fine-tuned LLMs for Amharic Named Entity Recognition to extract product and price info from e-commerce messages, achieving an **89% F1-score** and laying the groundwork for scalable data collection, model optimization, and future API deployment for EthioMart’s automation vision.  
+<span style="color:#2980b9;"><strong>Key Achievement:</strong></span> Fine-tuned LLMs for Amharic Named Entity Recognition to extract product and price info from e-commerce messages, achieving an 89% F1-score and laying the groundwork for scalable data collection, model optimization, and future API deployment for EthioMart’s automation vision.  
 </div>
