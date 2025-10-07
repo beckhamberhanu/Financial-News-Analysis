@@ -1,4 +1,4 @@
-### FinancialSentimentForecast
+# FinancialSentimentForecast
 
 [![CI Status](https://github.com/beckhamberhanu/Financial-News-Analysis/actions/workflows/python-app.yml/badge.svg)](https://github.com/beckhamberhanu/Financial-News-Analysis/actions/workflows/python-app.yml)
 ![Python Version](https://img.shields.io/badge/python-3.12%2B-blue)
