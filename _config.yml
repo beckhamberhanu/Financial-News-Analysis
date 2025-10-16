@@ -355,14 +355,14 @@ compress_html:
 
 # portfolo categories
 portfolio_categories:
+  ai_data_science:
+    title: "AI and Data Science"
+  research:
+    title: "Research Projects"
   high_impact:
     title: "High-impact Projects"
   software:
     title: "Software Projects"
-  research:
-    title: "Research Projects"
-  ai_data_science:
-    title: "AI and Data Science"
   community:
     title: "Community Service"
 
